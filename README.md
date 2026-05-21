@@ -24,7 +24,7 @@ Smart Bot is a custom-built, advanced desktop automation application developed u
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
-Make sure you have **Python 3.x** installed on your system.
+Make sure you have **Python 3.x** installed on your system. 
 
 ### Required Libraries
 The application relies on several external Python libraries. You can install them using `pip`:
