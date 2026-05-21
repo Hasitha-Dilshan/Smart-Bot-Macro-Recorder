@@ -29,7 +29,9 @@ Make sure you have **Python 3.x** installed on your system.
 ### Required Libraries
 The application relies on several external Python libraries. You can install them using `pip`:
 
+(Note: Built-in libraries used include tkinter, time, threading, json, os, ctypes, shutil, and math which require no additional installation).
+
 ```bash
 pip install pyautogui pynput pillow pyperclip
 
-(Note: Built-in libraries used include tkinter, time, threading, json, os, ctypes, shutil, and math which require no additional installation).
+
